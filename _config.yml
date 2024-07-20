@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: SourceStation3
   bio: >- # tell to the world
-    All about modding Source Engine games on Sony PS3. <a href="Archive">view all posts</a>, or check out some <a href="tools-of-the-trade">tools and resources</a>.
+    All about modding Source Engine games on Sony PS3. <a href="Archive">view all posts</a>, or check out some <a href="tools-of-the-trade">tools and resources</a>. Have information that isn't on this website yet? <a href="https://github.com/sourcestation3/sourcestation3.github.io/issues">Open an issue on GitHub</a>.
   username: sourcestation3 # general username
   github: sourcestation3 # github username
   # twitter: twitter_username # twitter username
