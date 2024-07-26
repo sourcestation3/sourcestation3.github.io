@@ -33,7 +33,7 @@ Here is a short clip of the beginning of Route Kanal on PS3 with noclip and 40FP
 
 2) Navigate to "Saved Data Utility" under "Games". You should see your flash drive at the top of the list like so:
 
-![](PS3ss1.png)
+![](./PS3ss1.png)
 
 If not, your flash drive may be formatted incorrectly.
 
@@ -79,7 +79,7 @@ For Half-Life 2, you can unlock all chapters by setting `sv_unlockedchapters` to
 
 14) Navigate back to the save data folder on your PS3, and this time select your flash drive. Select your modified save file.
 
-![](PS3ss3.png)
+![](./PS3ss3.png)
 
 15) Press triangle, select "Copy". You will get two different overwrite prompts, choose "yes" on both of them.
 
