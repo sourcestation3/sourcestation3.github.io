@@ -19,8 +19,8 @@ author:
   # email: your-email@email.com # email adress
 
 # URL settings
-url: "https://klise.now.sh" #
-baseurl:
+url: "https://sourcestation3.github.io/" #
+# baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
