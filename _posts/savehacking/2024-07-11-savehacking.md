@@ -5,7 +5,7 @@ title:  "[Orange Box] Run Console Commands and Simple Hacks [No Jailbreak Needed
 
 Using save file hacking, it is possible to run console commands and cheats by simply binding them to controller buttons.
 
-![A screenshot of Route Kanal with debug information enabled.](Screenshot.png)
+![A screenshot of Route Kanal with debug information enabled.](../postassets/old/Screenshot.png)
 
 Here is a short clip of the beginning of Route Kanal on PS3 with noclip and 40FPS:
 
@@ -39,7 +39,7 @@ If not, your flash drive may be formatted incorrectly.
 
 3) Navigate to your desired game's SETTINGS save. Ignore any of your actual saves, we don't need them, we are simply modifying a config file.
 
-![Screenshot of HL2's SETTINGS file.](PS3ss2.png)
+![Screenshot of HL2's SETTINGS file.](../postassets/old/PS3ss2.png)
 
 4) Press triangle, select copy, choose your flash drive. Overwrite if asked.
 
@@ -47,17 +47,17 @@ If not, your flash drive may be formatted incorrectly.
 
 6) On your file browser, navigate to your flash drive>PS3>SAVEDATA. Select your save (look for a folder called HL2CONF or similar) and open it. You will be met with these files:
 
-![.CFG, .CHK, .PNG, .PFD, .SFO files](pcss1.png)
+![.CFG, .CHK, .PNG, .PFD, .SFO files](../postassets/old/pcss1.png)
 
 7) Open BruteCRC32. Click select and navigate to your game's save again. Click on the CFG file. Click Examine.
 
-![Screenshot of BruteCRC32](pcss2.png)
+![Screenshot of BruteCRC32](../postassets/old/pcss2.png)
 
 8) The text box on the right should have been filled with an 8-digit code. Hold onto that code (I recommend copying it into the lower textbox).
 
 9) Now, we can open the CFG file. If asked, open it with Notepad. Do NOT close BruteCRC32 yet.
 
-![Screenshot of the default config file, without any edits made yet](pcss3.png)
+![Screenshot of the default config file, without any edits made yet](../postassets/old/pcss3.png)
 
 **Note:** All buttons correspond to an Xbox 360 controller rather than PS3. So A_BUTTON = X, L_SHOULDER = L1, etc.
 
