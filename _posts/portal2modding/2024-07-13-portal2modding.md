@@ -13,7 +13,7 @@ This is what MakeGameData is for. MakeGameData is an official tool used by Valve
 
 To set up MakeGameData, you must first create a folder on your PC called "game". Inside this folder, make another folder called "bin", and copy all the files from Dino D-Day's bin folder into there. Then, from the "game" folder, you make another folder, call it whatever you want, but make sure that there is a valid gameinfo.txt file in there (just steal from Portal 2 PC), otherwise MakeGameData won't work. All your game assets go in this folder. VPKs are **not** processed by MakeGameData, so you will need to extract all the files from the VPKs using a tool such as [GCFscape](https://developer.valvesoftware.com/wiki/GCFScape) or [Crowbar](https://developer.valvesoftware.com/wiki/Crowbar). After this, in the folder you extracted the game assets to, open a command prompt. I recommend using this trick, but type "cmd" rather than "wt":
 
-![](./cmd.gif)
+![](../postassets/old/cmd.gif)
 
 Inside this command prompt, run the following command:
 
