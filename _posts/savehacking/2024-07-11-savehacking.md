@@ -9,7 +9,7 @@ Using save file hacking, it is possible to run console commands and cheats by si
 
 Here is a short clip of the beginning of Route Kanal on PS3 with noclip and 40FPS:
 
-<iframe src="demoreel.mp4" width="600" height="371" frameborder="0" style="max-width:100%; vertical-align:middle; text-align:center;" allowfullscreen></iframe>
+<iframe src="../postassets/old/demoreel.mp4" width="600" height="371" frameborder="0" style="max-width:100%; vertical-align:middle; text-align:center;" allowfullscreen></iframe>
 
 <small>Note: some web browsers don't like how this video's audio is encoded. Video may be muted.</small>
 

@@ -5,7 +5,7 @@ title:  "[Portal 2] Initial Datamining Observations"
 
 Compared to the bizzare file layouts seen in The Orange Box, the Portal 2 port is very conventional:
 
-![layout of the PS3 disc](filestruc.png)
+![layout of the PS3 disc](../postassets/old/filestruc.png)
 
 `EBOOT.BIN` is presumably a required file to launch the game, while `bin` contains some PS3 executables in the `.sprx` format. 
 
@@ -15,7 +15,7 @@ The `platform` folder is relatively uninteresting, with a zip holding engine pla
 
 Inside the main `portal2` folder, we have the following arrangement:
 
-![has folders BIN, MAPS, and MEDIA, a single gameinfo.xtx file, and 3 ZIP files.](portal2folder.png)
+![has folders BIN, MAPS, and MEDIA, a single gameinfo.xtx file, and 3 ZIP files.](../postassets/old/portal2folder.png)
 
 As usual, most of the game is contained inside ZIP folders, with the exception of maps and videos, which presumably are large enough on their own not to benefit from filepacking. Videos are in .BIK format, which was added to Source in 2011 specifically for the monitors in Portal 2. It is also used for several cutscenes and the intro Valve logo, and can be viewed in VLC. Maps are still `.ps3.bsp` files and need a special tool called MakeGameData to convert to PS3. This was an internal Valve tool, and a PS3-compatible version of it is currently available in the SDK for the game Dino D-Day.
 
