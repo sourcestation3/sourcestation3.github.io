@@ -27,7 +27,7 @@ Some useful programs for modding your game.
 Learn about modding Source PS3 and talk to other modders:
 - [SPMP](https://github.com/SourceSPMP) and their [Wiki](https://sourcespmp.github.io/wiki/) - A short-lived group who did a great deal of reverse engineering on Portal 2 PS3. The group's leader has a [YouTube channel](https://www.youtube.com/@relt_/videos) with more information in an easy-to-digest format.
 - [Xbox 360 Source Modding Discord](https://discord.gg/Py9FpHakRH) - Contains an absolute treasure trove of information about the console source engine ports, sometimes including PS3 as well. Chock-full of knowledgable people including Dr, who [ported the entirety of HL2 mod Watching Paint Dry to Xbox 360](https://www.youtube.com/watch?v=xFJPHAg3kcs). Had it not been for these guys, I wouldn't have had enough information to even start this website.
-- [CS:GO Console Discord](https://discord.gg/g8vF2FuMcv) - CS:GO for both PS3 and Xbox 360, including mods, multiplayer
+- [CS:GO Console Discord](https://discord.gg/g8vF2FuMcv) - CS:GO console Discord server for both PS3 and Xbox 360, including mods, multiplayer, and other fun stuff.
 
 More to come as I find new stuff.
 
